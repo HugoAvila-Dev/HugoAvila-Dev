@@ -6,7 +6,7 @@
 ## 🌐 Connect with me:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="hugoavilaa" />
+  <img src="[https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif)" alt="hugoavilaa" />
 </p>
 
 ## 💻 Languages and Tools:
